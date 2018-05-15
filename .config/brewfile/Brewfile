@@ -1,0 +1,77 @@
+
+# Other Homebrew packages
+brew autoconf
+brew autopsy
+brew binwalk
+brew brew-file
+brew cairo
+brew cmake
+brew cppcheck
+brew docker
+brew fontconfig
+brew foremost
+brew freetype
+brew gcc
+brew gdbm
+brew gettext
+brew glib
+brew gmp
+brew go
+brew hashpump
+brew imagemagick
+brew inetutils
+brew isl
+brew john
+brew jpeg
+brew latexdiff
+brew libevent
+brew libffi
+brew libidn
+brew libmpc
+brew libpng
+brew libtiff
+brew libtool
+brew libyaml
+brew little-cms2
+brew mas
+brew mpfr
+brew nmap
+brew openjpeg
+brew openssl
+brew p7zip
+brew pcre
+brew pixman
+brew pkcrack
+brew pkg-config
+brew poppler
+brew pyenv
+brew pyenv-virtualenv
+brew python@2
+brew readline
+brew sleuthkit
+brew sqlite
+brew ssdeep
+brew tmux
+brew xz
+
+# Other Cask applications
+cask atom
+cask bettertouchtool
+cask firefox
+cask google-chrome
+cask iterm2
+cask mactex
+cask maczip4win
+cask skype
+cask slack
+cask vagrant
+cask virtualbox
+cask wireshark
+
+# App Store applications
+appstore 508368068 Get Plain Text (2.0)
+appstore 409183694 Keynote (7.3.1)
+appstore 539883307 LINE (5.7.0)
+appstore 409203825 Numbers (4.3.1)
+appstore 409201541 Pages (6.3.1)
+appstore 497799835 Xcode (9.3.1)
